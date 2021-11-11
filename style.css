@@ -1,0 +1,78 @@
+.heading {
+  margin-leftt: 100px;
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+  background-size: cover;
+  background-image: url("Sphinx.jpg");
+}
+
+.image1 {
+  padding: 0px;
+}
+
+.image2 {
+  padding: 0px;
+  margin: -450px 0px 0px 0px;
+}
+
+.content {
+  margin: -210px 0px 10px 400px;
+  background-color: EFCF83;
+  padding: 1px 1px 1px 100px;
+  font-family: Calibri;
+}
+
+.summary {
+  margin: 150px 0px 0px 400px;
+  background-color: EFCF83;
+  padding: 1px 1px 1px 100px;
+  font-family: Calibri;
+}
+
+a:link {
+ color: Yellow;
+ text-decoration: none;
+}
+
+a:visited {
+ color: ;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #0268db;
+ text-decoration: none;
+}
+
+a:active {
+ color: Green;
+ text-decoration: none;
+}
+
+
+.video {
+  display: table;
+  margin-left: -10px;
+  padding: 20px 86px 94px 20px;
+  background-color: 624B1C;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Calibri;
+}
+
+.context {
+  margin: -500px 0px 0px -10px;
+  padding: 20px 10px 20px 20px;
+  display: table;
+  font-family: Calibri;
+  background-color: 624B1C;
+}
+
+.cite {
+  margin-top: 200px;
+  background-color: #AA5725;
+  padding: 30px;
+  font-family: Calibri;
+}
